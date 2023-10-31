@@ -67,4 +67,4 @@ const server = http.createServer((req, res) => {
     
 });
 
-server.listen(3001, "localhost");
+server.listen(10000, "0.0.0.0");
